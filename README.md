@@ -3,6 +3,8 @@
 ## Install the virtual env
 `
   pip install virtualenv
+`
+`
   virtualenv venv
 `
 
